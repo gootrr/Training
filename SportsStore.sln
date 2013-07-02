@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.Domain", "SportsStore.Domain\SportsStore.Domain.csproj", "{35438CC9-6A81-424A-BBDF-A85D03620DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.UnitTests", "SportsStore.UnitTests\SportsStore.UnitTests.csproj", "{FA41FBE2-16C6-47FF-98E9-1D7DD7FAD331}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.WebUI", "SportsStore.WebUI\SportsStore.WebUI.csproj", "{F7661131-497D-48A3-BDEB-09AE682D5FD5}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://gootrr.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SportsStore.Domain\\SportsStore.Domain.csproj
+		SccProjectName1 = SportsStore.Domain
+		SccLocalPath1 = SportsStore.Domain
+		SccProjectUniqueName2 = SportsStore.UnitTests\\SportsStore.UnitTests.csproj
+		SccProjectName2 = SportsStore.UnitTests
+		SccLocalPath2 = SportsStore.UnitTests
+		SccProjectUniqueName3 = SportsStore.WebUI\\SportsStore.WebUI.csproj
+		SccProjectName3 = SportsStore.WebUI
+		SccLocalPath3 = SportsStore.WebUI
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35438CC9-6A81-424A-BBDF-A85D03620DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35438CC9-6A81-424A-BBDF-A85D03620DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35438CC9-6A81-424A-BBDF-A85D03620DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35438CC9-6A81-424A-BBDF-A85D03620DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA41FBE2-16C6-47FF-98E9-1D7DD7FAD331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA41FBE2-16C6-47FF-98E9-1D7DD7FAD331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA41FBE2-16C6-47FF-98E9-1D7DD7FAD331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA41FBE2-16C6-47FF-98E9-1D7DD7FAD331}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7661131-497D-48A3-BDEB-09AE682D5FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7661131-497D-48A3-BDEB-09AE682D5FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7661131-497D-48A3-BDEB-09AE682D5FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7661131-497D-48A3-BDEB-09AE682D5FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
